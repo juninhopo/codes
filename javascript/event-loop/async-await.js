@@ -18,13 +18,13 @@ test()
 test2()
 
 // Arrow function
-const test1 = async () => {
+const test1 = () => {
   console.log('Another method of making a function -> Arrow Function')
 
   const user_id = 'user-id'
 
-  return test
+  return user_id
 }
 
 // The value of the const test2 is 'user-id'
-const test2 = await test1
+const test2 = test1
