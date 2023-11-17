@@ -40,7 +40,7 @@
 var twoSum = function (nums, target) {
   let numMap = new Map()
 
-  for (let i = 0; i < nums.lenght; i++) {
+  for (let i = 0; i < nums.length; i++) {
     let complement = target - nums[i]
 
     if (numMap.has(complement)) {
