@@ -42,4 +42,4 @@
  * @param {ListNode} l2
  * @return {ListNode}
  */
-Constraints: var addTwoNumbers = function (l1, l2) {}
+var addTwoNumbers = function (l1, l2) {}
