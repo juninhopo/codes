@@ -11,6 +11,9 @@
 
 // Example 1:
 // Input: l1 = [2,4,3], l2 = [5,6,4]
+//        l2 = [5,6,4]
+//    result = [7,0,8]
+//   here it was 10 so you threw the 1 to the right
 // Output: [7,0,8]
 // Explanation: 342 + 465 = 807.
 
@@ -42,4 +45,13 @@
  * @param {ListNode} l2
  * @return {ListNode}
  */
+
 var addTwoNumbers = function (l1, l2) {}
+
+// for test
+// example: l1 + l2
+//   [2, 4, 3] + [5, 6, 4]
+let l1 = [2, 4, 3]
+let l2 = [5, 6, 4]
+let outputCorrectly = [7, 0, 8]
+addTwoNumbers(l1, l2)
