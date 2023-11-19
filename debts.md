@@ -4,7 +4,6 @@ Destinado para guardar o que preciso estudar.
 
 ## Pendency
 
-- [ ] Ler esse artigo - [LINK](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/)
 - [ ] Urgente - Entender o que é o Handler, qual o conceito de Handler.
 - [ ] Estudar mais testes unitários com Jest / Estou fazendo o curso da [playlist](https://www.youtube.com/watch?v=bA9dgNMHVMU&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&index=7)
 - [ ] Estudar mais sobre Rust
