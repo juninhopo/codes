@@ -18,3 +18,21 @@ const eatFruit = async () => {
   }
 }
 ```
+
+```js
+// Exemplo usando JavaScript (Node.js) e AWS Lambda com SQS Trigger
+exports.handler = async (event) => {
+  // Processa a mensagem da fila SQS
+  event.Records.forEach((record) => {
+    const messageBody = JSON.parse(record.body)
+    console.log(`Mensagem recebida: ${messageBody}`)
+  })
+
+  // Lógica de processamento adicional
+
+  return {
+    statusCode: 200,
+    body: JSON.stringify('Processamento concluído.'),
+  }
+}
+```
