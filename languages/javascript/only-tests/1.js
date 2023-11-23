@@ -1,22 +1,21 @@
-const is_tapton_use_sdk = {
+const option1 = {
   active: false,
 }
-const is_tapton_use_sdk_ios = {
+const option2 = {
   active: false,
 }
 
-const verify_android = is_tapton_use_sdk.active
-const verify_ios = is_tapton_use_sdk_ios.active
+const verify_1 = option1.active
+const verify_2 = option2.active
 
 console.log({
-  Android: verify_android,
-  Ios: verify_ios,
+  Android: verify_1,
+  Ios: verify_2,
 })
 
 if (
-  (typeof is_tapton_use_sdk === 'undefined' || !is_tapton_use_sdk.active) &&
-  (typeof is_tapton_use_sdk_ios === 'undefined' ||
-    !is_tapton_use_sdk_ios.active)
+  (typeof option1 === 'undefined' || !option1.active) &&
+  (typeof option2 === 'undefined' || !option2.active)
 ) {
   console.log({
     message: 'invalid_min_version',
