@@ -1,6 +1,14 @@
 {
+  "main": "index.js",
+  "scripts": {
+    "testlib": "node languages/javascript/test-lib/1.js"
+  },
   "dependencies": {
+    "i": "^0.3.7",
     "jsonwebtoken": "^9.0.2",
+    "npm": "^10.2.4",
+    "poc-lib-npm": "^1.0.4",
     "ramda": "^0.29.1"
-  }
+  },
+  "version": "0.0.1"
 }
