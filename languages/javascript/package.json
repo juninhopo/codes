@@ -8,7 +8,9 @@
     "jsonwebtoken": "^9.0.2",
     "npm": "^10.2.4",
     "poc-lib-npm": "^1.0.4",
-    "ramda": "^0.29.1"
+    "ramda": "^0.29.1",
+    "rest-to-jsonrpc-2.0": "^1.0.20",
+    "ts-node": "^10.9.2"
   },
-  "version": "0.0.1"
+  "version": "0.0.2"
 }
