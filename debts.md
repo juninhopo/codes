@@ -6,6 +6,7 @@ Destinado para guardar o que preciso estudar.
 
 - Entender como funciona a lib PINO, como funciona o nosso ton-logger.
 - Estudar o SOLID.
+- Estudar programação funcional, imperativa ou orientação de objetos.
 - Entender como funciona o .dependencies no javascript
 - Por que fazer um handler de error do axios, por que temos que fazer ele? Como fazer?
 - Reconhecimento facial em [rust](https://www.youtube.com/watch?v=8iDeXbCKlvE)
