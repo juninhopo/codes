@@ -7,7 +7,7 @@ class Solution:
         j = len(nums)-1
 
         while i < j:
-            _sum = nums[i] + nums[j]  
+            _sum = nums[i] + nums[j]
         
             if _sum == target:
                 return[i, j]
