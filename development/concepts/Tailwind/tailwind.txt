@@ -1,0 +1,35 @@
+O que é Tailwind?
+
+O Tailwind é a junção de CSS + a metodologia de classes funcionais que vamos chamar de "Utility Fist" (utilidade primeiro) + o POST CSS que é um pós processador.
+
+Qual a polemica que o Tailwind está?
+
+As classes precisam ser utilitárias e fazer apenas 1 regra
+
+Quais as vantagens que o Tailwind nos da?
+  - A imutabilidade 
+
+- Não podemos ficar criando classes desnecessárias.
+
+<!-- composição vs herança -->
+  - A gente precisa prezar em agregar as classes ex:
+
+.w-50 {
+  width: 50px;
+}
+
+.border-2 {
+  border-width: 2px;
+}
+
+.color-yellow {
+  color: yellow;
+}
+
+Desse jeito conseguimos passar 3 classes para uma div, assim não corremos riscos de quebrar todo o layout mexendo em varias classes.
+
+De fazer uma mudança e ir quebrando em cascata todos os layouts. 
+
+O começo vai ser meio difícil pois não conheço muito de CSS, mas pelos feedbacks depois de um tempo a produtividade é monstruosa. 
+
+

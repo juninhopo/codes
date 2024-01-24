@@ -1,0 +1,20 @@
+# Operadores Lógicos
+
+Lista dos operadores lógicos:
+- '>' - Maior que
+- '>=' - Maior ou igual
+- '<' - Menor que
+- '<=' - Menor ou igual
+- '==' - Igual
+- '!=' - Diferente
+- '===' - Idêntico
+- '&&' - and (e)
+- '||' - or (ou)
+
+Comparativo:
+
+  False   /   True
+  0       /   1
+  LOW     /   HIGH
+  off     /   on
+

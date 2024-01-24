@@ -1,0 +1,1 @@
+https://blog.sanjayhona.com.np/terraform-error-incompatible-provider-version-m1-or-darwin-arm64-fae0159f913f

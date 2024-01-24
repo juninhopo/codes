@@ -1,0 +1,28 @@
+# Variável
+
+Em programação, uma variável é um local de armazenamento nomeado que pode conter um valor. Ela é utilizada para representar e manipular dados durante a execução de um programa.
+
+As variáveis têm um nome único que serve como uma referência para acessar seu conteúdo. Elas podem armazenar diferentes tipos de dados, como números, texto, valores lógicos (verdadeiro ou falso), entre outros, dependendo da linguagem de programação utilizada.
+
+Ao criar uma variável, é necessário especificar seu tipo, que determina o tipo de dado que ela pode armazenar e as operações que podem ser realizadas com ela. Por exemplo, em algumas linguagens, pode-se ter variáveis do tipo inteiro (int), string (texto), booleano (bool), entre outros.
+
+Uma vez que uma variável é criada, é possível atribuir um valor a ela, utilizando o operador de atribuição (=). Por exemplo:
+
+idade = 25
+nome = "João"
+
+Nesse exemplo em Python, criamos duas variáveis: "idade" e "nome". A variável "idade" recebe o valor 25, enquanto a variável "nome" recebe o valor "João".
+
+As variáveis podem ser modificadas ao longo da execução do programa, ou seja, é possível alterar seu valor durante a execução. Isso permite que os dados sejam atualizados e manipulados conforme necessário.
+
+As variáveis também podem ser usadas em expressões e operações. Por exemplo:
+
+a = 10
+b = 5
+soma = a + b
+
+Nesse caso, as variáveis "a" e "b" são utilizadas em uma expressão de soma, e o resultado é atribuído à variável "soma".
+
+As variáveis têm escopo, que determina a região do programa onde elas são visíveis e podem ser acessadas. O escopo pode ser global, quando a variável é visível em todo o programa, ou local, quando a variável é visível apenas em uma parte específica do programa, como dentro de uma função.
+
+O uso de variáveis é fundamental na programação, pois permite armazenar e manipular dados de forma dinâmica, facilitando o desenvolvimento de algoritmos e a criação de soluções mais flexíveis e interativas.

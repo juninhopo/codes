@@ -1,4 +1,4 @@
 .DS_Store
-/languages/javascript/node_modules
-/languages/rust/codeshow/target
-/languages/rust/play/target
+/development/languages/javascript/node_modules
+/development/languages/rust/codeshow/target
+/development/languages/rust/play/target
