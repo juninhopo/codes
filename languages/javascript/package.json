@@ -3,6 +3,7 @@
   "scripts": {
     "testlib": "node languages/javascript/test-lib/1.js"
   },
+  "type": "module",
   "dependencies": {
     "i": "^0.3.7",
     "jsonwebtoken": "^9.0.2",
