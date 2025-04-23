@@ -2,7 +2,7 @@ Nivel: Iniciante (Básico)
 
 Objetivo: Virar um **DEV** 
 
-## 1️⃣ **Pré-requisito para o Darlan te ajudar:**
+## 1️⃣ **Pré-requisito para se ajudar:**
 
 - Assista: Aprenda sobre Modo Caverna - [LINK](https://www.youtube.com/watch?v=0pVYcWLxUSM&t=795s)
 

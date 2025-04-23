@@ -1,56 +1,56 @@
 # To-do
 
-Destinado para guardar o que preciso estudar.
+Intended to store what I need to study.
 
-## Pendency
+## Pending Items
 
-- Estudar sobre - mqtt esp32
-- Subir um analitics dentro de um produto - https://posthog.com/
-- Fazer um servidor com um notebook, entender como subir ele no proxmox para eu ter acesso a ele
-- Faça um site para ser um grande vim, que fica treinando para o vim
-- TCP - O que é? Melhorar o conhecimento sobre
-- Entender o que é monkey patching
-- Preciso urgente de um servidor proprio
-- Subir email com: Postfix Source Code
-- Entender mais sobre [ledger bancario](https://ledger-cli.org/doc/ledger3.html)
-- Olap Cube - entender sobre
-- Entender como funciona a lib PINO, como funciona o nosso ton-logger.
-- Estudar o SOLID.
-- Estudar programação funcional, imperativa ou orientação de objetos.
-- Entender como funciona o .dependencies no javascript
-- Por que fazer um handler de error do axios, por que temos que fazer ele? Como fazer?
-- Reconhecimento facial em [rust](https://www.youtube.com/watch?v=8iDeXbCKlvE)
-- Urgente - Entender o que é o Handler, qual o conceito de Handler.
-- Estudar mais testes unitários com Jest / Estou fazendo o curso da [playlist](https://www.youtube.com/watch?v=bA9dgNMHVMU&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&index=7)
-- Estudar mais sobre Rust
-- Estudar como funciona o Event Loop do Nodejs
-- Entender a estrutura de dados do React Js. Como funciona a árvore de dados?
-- Aprender sobre protocolos de comunicação da internet
-- Estudar sobre IPV4 e IPV6
-- Estudar sobre polimorfismo e herança
-- Estudar Jobs assíncronos com redis
-- Estudar Balance Binary Three
-- Estudar o que é CloudFormation, é terraform?
-- Fazer um artigo sobre todas estruturas de dados existentes
-- Estudar sobre Type Driven Development
-- Estudar o que é BFS -> Busca em Largura
-- Estudar sobre IaC, Infrastructure as Code.
-- Entender o Internet Gateway e Nat Gateway
-- Entender melhor como funciona Redes
-- Entender questão dos Ips, notação CIDR
-- Entender um NOS para processar o real digital
-- Entender bem como funciona e para que serve um SQS
-- O que é Ciencia dos psicodelicos
-- O que é um cidr - relacionado a ip [3.224.47.190](https://us-east-1.console.aws.amazon.com/vpcconsole/home?region=us-east-1#Addresses:public-ip=3.224.47.190)/32
-- Entender o Kafka, para que serve e como funciona?
-- O que é Modelo Anêmico?
-- Entender o que é um boilerplate na criacao de saas, https://www.youtube.com/watch?v=LoVYSaD9J2o, basicamente é um model que eu fico usando em varios outros projetos???
-- Relacionamento Many to Many em um Banco SQL.
-- Entender melhor sobre CORS. Saber de tudo e como isso é usado no back e no front.
-- Aprender sobre design patterns
+- Study about - MQTT ESP32
+- Set up analytics within a product - https://posthog.com/
+- Set up a server with a notebook, understand how to deploy it on Proxmox to have access to it
+- Create a website to be a big vim, that keeps training for vim
+- TCP - What is it? Improve knowledge about it
+- Understand what is monkey patching
+- Urgently need a personal server
+- Set up email with: Postfix Source Code
+- Learn more about [ledger](https://ledger-cli.org/doc/ledger3.html)
+- OLAP Cube - understand about it
+- Understand how the PINO library works, how our ton-logger works
+- Study SOLID principles
+- Study functional programming, imperative or object-oriented programming
+- Understand how .dependencies works in JavaScript
+- Why make an axios error handler, why do we have to make it? How to do it?
+- Facial recognition in [Rust](https://www.youtube.com/watch?v=8iDeXbCKlvE)
+- Urgent - Understand what is a Handler, what is the concept of Handler
+- Study more unit tests with Jest / I'm taking the course from this [playlist](https://www.youtube.com/watch?v=bA9dgNMHVMU&list=PLz_YTBuxtxt6_Zf1h-qzNsvVt46H8ziKh&index=7)
+- Study more about Rust
+- Study how the Node.js Event Loop works
+- Understand the data structure of React Js. How does the data tree work?
+- Learn about internet communication protocols
+- Study about IPv4 and IPv6
+- Study about polymorphism and inheritance
+- Study asynchronous jobs with Redis
+- Study Balanced Binary Tree
+- Study what is CloudFormation, is it terraform?
+- Write an article about all existing data structures
+- Study about Type Driven Development
+- Study what is BFS -> Breadth-First Search
+- Study about IaC, Infrastructure as Code
+- Understand Internet Gateway and Nat Gateway
+- Better understand how Networks work
+- Understand IP issues, CIDR notation
+- Understand a NOS to process digital real
+- Better understand how and what an SQS is for
+- What is the Science of Psychedelics
+- What is a CIDR - related to IP [3.224.47.190](https://us-east-1.console.aws.amazon.com/vpcconsole/home?region=us-east-1#Addresses:public-ip=3.224.47.190)/32
+- Understand Kafka, what is it for and how does it work?
+- What is Anemic Model?
+- Understand what is a boilerplate in SaaS creation, https://www.youtube.com/watch?v=LoVYSaD9J2o, basically is it a model that I keep using in various other projects???
+- Many-to-Many relationship in a SQL Database
+- Better understand about CORS. Know everything and how it's used in back-end and front-end
+- Learn about design patterns
     - Clean Architecture
     - MVC
-- O que é e para que usar o KAFKA?
-- Entender sobre: como fazer uma dieta baseada em sementes, frutas, proteinas que fazem mil vezes melhor para o corpo? Eslen Delanogare, como fazer isso? Dentro do Reservatorio de dopamina tem uma aula sobre isso de acordo com ele.
-- Saber diferenciar melhor os tempos verbais no ingles.
-- Subir o `cuturl` para o meu site [juninhopo.com](http://juninhopo.com/), preciso pegar um subdominio e subir o cuturl para poder utilizar.
+- What is and why use KAFKA?
+- Understand about: how to make a diet based on seeds, fruits, proteins that are much better for the body? Eslen Delanogare, how to do this? Inside the Dopamine Reservoir there is a class about this according to him
+- Better differentiate verb tenses in English
+- Deploy `cuturl` to my site [juninhopo.com](http://juninhopo.com/), I need to get a subdomain and deploy cuturl to be able to use it
