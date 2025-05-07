@@ -4,7 +4,9 @@ Intended to store what I need to study.
 
 ## Pending Items
 
+- Create extension for read a qr and create a history
 - Study about - MQTT ESP32
+- Study about and implement a poc - https://firecracker-microvm.github.io/
 - Set up analytics within a product - https://posthog.com/
 - Set up a server with a notebook, understand how to deploy it on Proxmox to have access to it
 - Create a website to be a big vim, that keeps training for vim
@@ -54,3 +56,4 @@ Intended to store what I need to study.
 - Understand about: how to make a diet based on seeds, fruits, proteins that are much better for the body? Eslen Delanogare, how to do this? Inside the Dopamine Reservoir there is a class about this according to him
 - Better differentiate verb tenses in English
 - Deploy `cuturl` to my site [juninhopo.com](http://juninhopo.com/), I need to get a subdomain and deploy cuturl to be able to use it
+- A mini console to climb images to make publicly available but the final user cannot take print or save
