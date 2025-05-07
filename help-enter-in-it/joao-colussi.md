@@ -18,14 +18,16 @@ Daily
 
 ## To-dos
 
-7h - good morning
-7h30 - work
-12h - lunch
-13h - study - (Roadmap)
-18h - break time
-19h - gym
-20h30 - study - (Write the article)
-00h - stop all screens (no phone, screen)
+| Horário | Atividade |
+|---------|-----------|
+| 7h | Good morning |
+| 7h30 | Work |
+| 12h | Lunch |
+| 13h | Study (Roadmap) |
+| 18h | Break time |
+| 19h | Gym |
+| 20h30 | Study (Write the article) |
+| 00h | Stop all screens (no phone, screen) |
 
 ## Roadmap to complete Woovi-challenge
 
