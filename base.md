@@ -9,7 +9,7 @@
 1. Push a commit to Github every day
 2. Learn something new every day
 3. Be a calmer person
-Learn to think before speaking, to improve communication skills
+4. Learn to think before speaking, to improve communication skills
 
 ## **Spiritual**
 

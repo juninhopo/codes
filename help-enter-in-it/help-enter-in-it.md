@@ -71,7 +71,7 @@ Objetivo: Virar um **DEV**
 - **Plataformas para Participar:**
     - [GitHub](https://github.com/)
     - [Stack Overflow](https://stackoverflow.com/)
-    - [Dev.to](https://dev.to/)
+    - [dev.to](https://dev.to/)
 
 ## 🔟 Soft Skills e Carreira
 
