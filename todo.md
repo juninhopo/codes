@@ -7,6 +7,7 @@ Intended to store what I need to study.
 - <https://www.youtube.com/watch?v=rkZzg7Vowao>
 - <https://www.youtube.com/watch?v=wLb9g_8r-mE>
 - <https://www.youtube.com/watch?v=gF12Xn3C-0c>
+- <https://www.youtube.com/watch?v=Qc_kEyLsXH0>
 
 ## Pending Items
 
@@ -63,4 +64,3 @@ Intended to store what I need to study.
 - Better differentiate verb tenses in English
 - Deploy `cuturl` to my site [juninhopo.com](http://juninhopo.com/), I need to get a subdomain and deploy cuturl to be able to use it
 - A mini console to climb images to make publicly available but the final user cannot take print or save
-
