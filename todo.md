@@ -2,12 +2,18 @@
 
 Intended to store what I need to study.
 
+## Pending Videos
+
+- <https://www.youtube.com/watch?v=rkZzg7Vowao>
+- <https://www.youtube.com/watch?v=wLb9g_8r-mE>
+- <https://www.youtube.com/watch?v=gF12Xn3C-0c>
+
 ## Pending Items
 
-- Create extension for read a qr and create a history
+- Create extension in chrome for read a qr and create a history
 - Study about - MQTT ESP32
-- Study about and implement a poc - https://firecracker-microvm.github.io/
-- Set up analytics within a product - https://posthog.com/
+- Study about and implement a poc - <https://firecracker-microvm.github.io/>
+- Set up analytics within a product - <https://posthog.com/>
 - Set up a server with a notebook, understand how to deploy it on Proxmox to have access to it
 - Create a website to be a big vim, that keeps training for vim
 - TCP - What is it? Improve knowledge about it
@@ -46,14 +52,15 @@ Intended to store what I need to study.
 - What is a CIDR - related to IP [3.224.47.190](https://us-east-1.console.aws.amazon.com/vpcconsole/home?region=us-east-1#Addresses:public-ip=3.224.47.190)/32
 - Understand Kafka, what is it for and how does it work?
 - What is Anemic Model?
-- Understand what is a boilerplate in SaaS creation, https://www.youtube.com/watch?v=LoVYSaD9J2o, basically is it a model that I keep using in various other projects???
+- Understand what is a boilerplate in SaaS creation, <https://www.youtube.com/watch?v=LoVYSaD9J2o>, basically is it a model that I keep using in various other projects???
 - Many-to-Many relationship in a SQL Database
 - Better understand about CORS. Know everything and how it's used in back-end and front-end
 - Learn about design patterns
-    - Clean Architecture
-    - MVC
+  - Clean Architecture
+  - MVC
 - What is and why use KAFKA?
 - Understand about: how to make a diet based on seeds, fruits, proteins that are much better for the body? Eslen Delanogare, how to do this? Inside the Dopamine Reservoir there is a class about this according to him
 - Better differentiate verb tenses in English
 - Deploy `cuturl` to my site [juninhopo.com](http://juninhopo.com/), I need to get a subdomain and deploy cuturl to be able to use it
 - A mini console to climb images to make publicly available but the final user cannot take print or save
+
