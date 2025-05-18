@@ -11,6 +11,8 @@ Intended to store what I need to study.
 
 ## Pending Items
 
+- Study - https://thalesmaciel.com/
+- Study ledger - https://ledger-cli.org/doc/ledger3.html
 - Create extension in chrome for read a qr and create a history
 - Study about - MQTT ESP32
 - Study about and implement a poc - <https://firecracker-microvm.github.io/>
